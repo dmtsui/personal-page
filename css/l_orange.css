@@ -1428,7 +1428,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .git-link {
   position: absolute;
-  right: 14%;
+  right: 90px;
   bottom: 0;
   padding: 5px 5px;
   background: rgba(255, 255, 255, 0.2);
@@ -1437,7 +1437,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .git-divider {
   position: absolute;
-  right: 12%;
+  right: 80px;
   bottom: 0;
   padding: 5px 5px;
   background: rgba(255, 255, 255, 0.2);
