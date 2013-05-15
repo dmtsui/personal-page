@@ -833,24 +833,6 @@ h1, h2, h3, h4, h5, h6 {
   color: black;
 }
 
-.git-link {
-  position: absolute;
-  right: 14%;
-  bottom: 0;
-  padding: 5px 5px;
-  background: rgba(255, 255, 255, 0.2);
-  color: black;
-}
-
-.git-divider {
-  position: absolute;
-  right: 12%;
-  bottom: 0;
-  padding: 5px 5px;
-  background: rgba(255, 255, 255, 0.2);
-  color: black;
-}
-
 .fancybox {
   display: block;
   position: relative;
@@ -1442,4 +1424,22 @@ h1, h2, h3, h4, h5, h6 {
     float: none;
     width: 100%;
   }
+}
+
+.git-link {
+  position: absolute;
+  right: 14%;
+  bottom: 0;
+  padding: 5px 5px;
+  background: rgba(255, 255, 255, 0.2);
+  color: black;
+}
+
+.git-divider {
+  position: absolute;
+  right: 12%;
+  bottom: 0;
+  padding: 5px 5px;
+  background: rgba(255, 255, 255, 0.2);
+  color: black;
 }
